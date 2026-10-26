@@ -47,6 +47,10 @@ pip install geopandas folium mapclassify matplotlib contextily jupyter
 
 Open a notebook in VS Code or Jupyter, select the `.venv` kernel, and run the cell(s).
 
+## License
+
+[MIT](LICENSE). Free and open source. The license covers the code in this repo, not third-party data (see below).
+
 ## Notes
 
 - POIs in `jakarta_poi.ipynb` are randomly generated (fixed seed), not real places.
